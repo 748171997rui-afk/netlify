@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://speedtest.biubiu2022.top/:splat"
+  to = "http://speedtest.biubiu2022.top:5666/:splat"
   status = 200
   force = true
