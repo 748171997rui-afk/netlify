@@ -1,5 +1,5 @@
 [[redirects]]
  from = "/*"
- to = "http://fnos.biubiu2022.top/:splat"
+ to = "http://fnos.biubiu2022.top:5666/:splat"
  status = 200
  force = true
